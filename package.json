@@ -1,0 +1,7 @@
+{
+  "name": "qmoosa-orbs-layerthree-service",
+  "version": "0.1.0",
+  "devDependencies": {
+    "hardhat": "^2.22.0"
+  }
+}
